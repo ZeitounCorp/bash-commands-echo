@@ -1,0 +1,21 @@
+{
+  "name": "@bash-commands/echo",
+  "version": "1.0.0",
+  "description": "echo command ported to nodeJs package",
+  "main": "index.js",
+  "homepage": "https://github.com/ZeitounCorp/bash-commands-echo",
+  "repository": "https://github.com/ZeitounCorp/bash-commands-echo",
+  "scripts": {
+    "patch": "npm version patch",
+    "minor": "npm version minor",
+    "major": "npm version major",
+    "publish": "npm publish --access public"
+  },
+  "keywords": [
+    "echo",
+    "bash",
+    "nodejs"
+  ],
+  "author": "ZeitounCorp",
+  "license": "ISC"
+}
