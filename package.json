@@ -1,6 +1,6 @@
 {
   "name": "@bash-commands/echo",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "echo command ported to nodeJs package",
   "main": "index.js",
   "homepage": "https://github.com/ZeitounCorp/bash-commands-echo",
