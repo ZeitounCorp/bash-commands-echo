@@ -36,7 +36,7 @@ function main() {
 | Parameter | Type | Default | Description |
 | --------- | ----- | ------- | ---------- |
 | message   | `string` | `echo working` | Message to print to the stdout |
-| options   | `object` | `{color: Colors, background: Backgrounds, filter: Filters}` | Configuration for the echo command, like passing `color` for text color, defining the background color (with `background`) or applying `filter` to the stdout text |
+| options   | `object` | `{color: 'white', background: 'black', filter: 'reset'}` | Configuration for the echo command, like passing `color` for text color, defining the background color (with `background`) or applying `filter` to the stdout text |
 
 ## Colors and filters
 
